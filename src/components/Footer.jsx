@@ -28,6 +28,11 @@ export default function Footer() {
                                     <Image src="/youtube.svg" height="36" width="36" alt="Societas Music Group YouTube logo"/>
                                 </a>
                             </li>
+                            <li className="footer__socials-list-item">
+                                <a href="https://discord.gg/NVfHVRVaHN" className="footer__socials-list-item-link" target="_blank">
+                                    <Image src="/discord.svg" height="36" width="36" alt="Societas Music Group Discord logo"/>
+                                </a>
+                            </li>
                         </ul>
                     </div>
                     <a href="https://www.societasmusic.com/privacy-policy" target="_blank"><p><u>Privacy Policy</u></p></a>
